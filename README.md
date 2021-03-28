@@ -30,7 +30,8 @@ Commit f3ae3b8 lectura IMU (MPU9250) cada 100 ms, trasmisión de datos cada segu
 ### Captura osciloscopio señal LED.
 ![CapturaTerminalCOM](./documentation/Entregable1_Señales.png)
 
-[Primer punto video demostración](https://vimeo.com/526973582).
+[Entregable1 video demostración](https://vimeo.com/526973582).
+
 ---
 ## Bibliografía:
 * [ESP-IDF template](https://github.com/espressif/esp-idf-template).
