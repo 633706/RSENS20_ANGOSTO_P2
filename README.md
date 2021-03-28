@@ -19,7 +19,18 @@ Commit 373435b, con FreeRTOS se crean dos tareas.
 [Primer punto video demostración](https://vimeo.com/529930490).
 
 ## Entregable 1 :
+Commit f3ae3b8 lectura IMU (MPU9250) cada 100 ms, trasmisión de datos cada segundo y encendido de LED por 200ms.
 
+### Montaje
+![FotoMonaje](./documentation/Entregable1_FotoMontaje.png)
+
+### Captura Terminal con mensaje.
+![CapturaTerminalCOM](./documentation/Entregable1_TerminalCOM.png)
+
+### Captura osciloscopio señal LED.
+![CapturaTerminalCOM](./documentation/Entregable1_Señales.png)
+
+[Primer punto video demostración](https://vimeo.com/526973582).
 ---
 ## Bibliografía:
 * [ESP-IDF template](https://github.com/espressif/esp-idf-template).
