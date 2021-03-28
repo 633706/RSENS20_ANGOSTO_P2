@@ -1,13 +1,26 @@
-RSENSE20_ANGOSTO_P1
+# RSENSE20_ANGOSTO_P2
+
 Estrcutra de proyecto basada en: [ESP-IDF template](https://github.com/espressif/esp-idf-template).
 Repositorio para la práctica P2 de redes de sensores.
 
+## Primer punto:
+Commit 373435b, con FreeRTOS se crean dos tareas.
+1. Parpadeo LED con período de 200ms.
+2. Envío por puerto serie texto "hola mundo" con un período de 1s.
+### Montaje
+![FotoMonaje](./documentation/PrimerPunto_FotoMontaje.png)
 
-Primer punto:
+### Captura Terminal con mensaje.
+![CapturaTerminalCOM](./documentation/PrimerPunto_TerminalCOM.png)
 
-Entregable 1 :
+### Captura osciloscopio señal LED.
+![CapturaTerminalCOM](./documentation/PrimerPunto_SeñalLED.png)
 
-Opcional 1 :
+[Primer punto video demostración](https://vimeo.com/529930490).
+
+## Entregable 1 :
+
+## Opcional 1 :
 
 ---
 ## Bibliografía:
