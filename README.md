@@ -20,8 +20,6 @@ Commit 373435b, con FreeRTOS se crean dos tareas.
 
 ## Entregable 1 :
 
-## Opcional 1 :
-
 ---
 ## Bibliografía:
 * [ESP-IDF template](https://github.com/espressif/esp-idf-template).

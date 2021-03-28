@@ -15,6 +15,18 @@
 //otras librearías
 #include "MPU9250.h"
 
-const char * msgTx_PC = "hola mundo\r\n";
+char msgTx_PC[100]= "Running\r\n";
+
+uint8_t WhoAmI_ = 0;
+int accX = 0;
+int accY = 0;
+int accZ = 0;
+char nSamples = 0;
+
+TaskHandle_t LEDHandle;
+TaskHandle_t UARTHandle;
+TaskHandle_t IMUHandle;
+
+TickType_t LastSample;
 
 #endif /* __MAIN_H__ */
