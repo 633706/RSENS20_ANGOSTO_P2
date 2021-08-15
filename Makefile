@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := RSENSE20_ANGOSTO_P1
+PROJECT_NAME := RSENSE20_ANGOSTO_P2
 
 include $(IDF_PATH)/make/project.mk
 
